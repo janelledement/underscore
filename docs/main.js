@@ -1,4 +1,5 @@
 (function() {
+  var random = 'I thought you would enjoy this here';
   var functions = document.querySelectorAll('[data-name]');
   var sections = document.querySelectorAll('.searchable_section');
   var searchInput = document.getElementById('function_filter');
